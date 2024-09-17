@@ -59,9 +59,9 @@ const defaultMenu = {
 \t\t\t*L I S T A  -  M E N Ú S*
 `.trimStart(),
   header: '╭───═[ `MENÚ メ %category` ]═────⋆\n│╭───────────────···',
-  body: '✩│%cmd %islimit %isPremium\n',
+  body: '🩵│%cmd %islimit %isPremium\n',
   footer: '│╰────────────────···\n╰───────────═┅═──────────\n',
-  after: `> 🚩 ${textbot}`,
+  after: `> 🩵 ${textbot}`,
 }
 
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
