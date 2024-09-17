@@ -10,19 +10,6 @@
         <a href="https://telegra.ph/file/cfef603c01b6ec05f7459.jpg"><img title="Author"    src="https://img.shields.io/badge/Author-(ㅎㅊDEPOOLㅊㅎ)-turquoise.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
-
----------
-### **`🔰 NEXUS HOTS PRO`**
-<a href="https://dash.nexus-host.shop"><img src="https://telegra.ph/file/4e9c55a597ad51026ccdb.jpg" height="125px"></a>
-
-<details>
- <summary><b>:paperclip: Enlaces Importantes</b></summary>
-
-- **Dashboard:** [`Aquí`](https://dash.nexus-host.shop)
-- **Panel:** [`Aquí`](https://panel.nexus-host.shop)
-- **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/LhlBSyakvI3GjGSvFTa1hh)
-- **Creador:** [`Yallico`](https://wa.me/51918425805)
--
 ---------
 
 ## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="Herramientas" width="35" height="35"> Herramientas
